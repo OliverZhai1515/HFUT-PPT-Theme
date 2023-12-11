@@ -7,3 +7,6 @@
 - [ ] v1简约16-9.pptx (借鉴THU Beamer Theme [@Trinkle23897](https://github.com/tuna/THU-Beamer-Theme))
 - [ ] v1简约4-3.pptx    (借鉴THU Beamer Theme [@Trinkle23897](https://github.com/tuna/THU-Beamer-Theme))
 
+---
+
+合肥工业大学校徽素材来自[HFUTTUG/HFUT-badge](https://github.com/HFUTTUG/HFUT-badge) Branch:**`v2020.08`**
